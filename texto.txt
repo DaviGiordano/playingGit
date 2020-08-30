@@ -1,5 +1,4 @@
 banana
 maca
 uva
-carro
-aviao
+
